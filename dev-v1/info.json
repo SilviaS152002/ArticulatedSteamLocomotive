@@ -1,0 +1,9 @@
+{
+	"Id": "NS15.ArticulatedSteamLocomotive",
+	"Version": "1.0.0",
+	"DisplayName": "NS15's Articulated Steam Locomotive Framework",
+	"Author": "NS15",
+	"EntryMethod": "NS15.ArticulatedSteamLocomotive.Main.Load",
+	"AssemblyName": "ArticulatedSteamLocomotive.dll",
+	"ManagerVersion": "0.27.3"
+}

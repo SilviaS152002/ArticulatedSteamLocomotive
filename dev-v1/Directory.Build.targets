@@ -1,0 +1,6 @@
+<Project>
+	<PropertyGroup>
+		<AssemblySearchPaths>$(AssemblySearchPaths);$(ReferencePath);</AssemblySearchPaths>
+		<DefaultGamePath>C:\Program Files\Steam\steamapps\common\Railroader</DefaultGamePath>
+	</PropertyGroup>
+</Project>

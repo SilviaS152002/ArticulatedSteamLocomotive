@@ -1,0 +1,10 @@
+I:\SteamLibrary\steamapps\common\Railroader\Mods\NS15.ArticulatedSteamLocomotive\info.json
+I:\SteamLibrary\steamapps\common\Railroader\Mods\NS15.ArticulatedSteamLocomotive\ArticulatedSteamLocomotive.dll
+I:\SteamLibrary\steamapps\common\Railroader\Mods\NS15.ArticulatedSteamLocomotive\ArticulatedSteamLocomotive.pdb
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\ArticulatedSteamLocomotive\ArticulatedSteamLocomotive\obj\Debug\ArticulatedSteamLocomotive.csproj.AssemblyReference.cache
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\ArticulatedSteamLocomotive\ArticulatedSteamLocomotive\obj\Debug\ArticulatedSteamLocomotive.GeneratedMSBuildEditorConfig.editorconfig
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\ArticulatedSteamLocomotive\ArticulatedSteamLocomotive\obj\Debug\ArticulatedSteamLocomotive.AssemblyInfoInputs.cache
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\ArticulatedSteamLocomotive\ArticulatedSteamLocomotive\obj\Debug\ArticulatedSteamLocomotive.AssemblyInfo.cs
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\ArticulatedSteamLocomotive\ArticulatedSteamLocomotive\obj\Debug\ArticulatedSteamLocomotive.csproj.CoreCompileInputs.cache
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\ArticulatedSteamLocomotive\ArticulatedSteamLocomotive\obj\Debug\ArticulatedSteamLocomotive.dll
+I:\SteamLibrary\steamapps\common\Railroader\dev_mods\ArticulatedSteamLocomotive\ArticulatedSteamLocomotive\obj\Debug\ArticulatedSteamLocomotive.pdb
