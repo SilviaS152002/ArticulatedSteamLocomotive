@@ -1,4 +1,4 @@
-Lets you re-parent the couplers. Should be enough to jerry-rig an articulated into the game.
+Lets you re-parent the couplers to a wheelset. Should be enough to jerry-rig an articulated into the game.
 
 How to use:
 
